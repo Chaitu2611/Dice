@@ -1,2 +1,3 @@
 # Dice
-HTML | CSS | JavaScript
+HTML | CSS | JavaScript |
+  To visit site: https://chaitu2611.github.io/Dice/
